@@ -1,5 +1,12 @@
 # MLND-learning
 
+Code and associated files created or filled in, used throughout my learning during the Machine Learning Engineer Udacity Nanodegree.
+For more details about the programme, you can have a look [here](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+
+-> Syllabus of the Nanodegree: [here](https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf)
+-> PS: Discount available during the COVID-19, check it out on the Udacity website
+
+
 # Machine Learning Deployment using AWS SageMaker
 
 Code and associated files 
