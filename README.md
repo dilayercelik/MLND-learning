@@ -13,7 +13,7 @@ For more details about the programme, you can have a look [here](https://www.uda
 
 1. Machine Learning Deployment using AWS Sagemaker / [sagemaker-deployment folder](https://github.com/dilayercelik/MLND-learning/tree/master/sagemaker-deployment)
 
-2. Machine Learning, Deployment Case Studies with AWS SageMaker / [ML_SageMaker_Studies folder]()
+2. Machine Learning, Deployment Case Studies with AWS SageMaker / [ML_SageMaker_Studies folder](https://github.com/dilayercelik/MLND-learning/tree/master/ML_SageMaker_Studies)
 
 
 # 1. Machine Learning Deployment using AWS SageMaker
