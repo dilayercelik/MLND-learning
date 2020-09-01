@@ -9,7 +9,7 @@ For more details about the programme, you can have a look [here](https://www.uda
 - PS: Discount available during the COVID-19, check it out on the Udacity website
 
 
-# Content of the repo
+# Content 
 
 1. Machine Learning Deployment using AWS Sagemaker / [sagemaker-deployment folder](https://github.com/dilayercelik/MLND-learning/tree/master/sagemaker-deployment)
 
